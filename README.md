@@ -23,19 +23,19 @@ Link to Heroku Site [click here](https://protected-falls-92314.herokuapp.com/)
 
 Manifest
 
-(https://github.com/MartaS333/Browser_Text_editor_PWA/blob/main/assets/manifest.png)
+![Screenshot](https://github.com/MartaS333/Browser_Text_editor_PWA/blob/main/assets/manifest.png)
 
 ServiceWorker
 
-(https://github.com/MartaS333/Browser_Text_editor_PWA/blob/main/assets/serviceworkers.png)
+![Screenshot](https://github.com/MartaS333/Browser_Text_editor_PWA/blob/main/assets/serviceworkers.png)
 
 IndexDB
 
-(https://github.com/MartaS333/Browser_Text_editor_PWA/blob/main/assets/index.db.png)
+![Screenshot](https://github.com/MartaS333/Browser_Text_editor_PWA/blob/main/assets/index.db.png)
 
 Installed Jate Interface
 
-(https://github.com/MartaS333/Browser_Text_editor_PWA/blob/main/assets/installed.png)
+![Screenshot](https://github.com/MartaS333/Browser_Text_editor_PWA/blob/main/assets/installed.png)
 
 
 
