@@ -31,7 +31,7 @@ ServiceWorker
 
 IndexDB
 
-![Screenshot](https://github.com/MartaS333/Browser_Text_editor_PWA/blob/main/assets/index.db.png)
+![Screenshot](https://github.com/MartaS333/Browser_Text_editor_PWA/blob/main/assets/indexdb.png)
 
 Installed Jate Interface
 
